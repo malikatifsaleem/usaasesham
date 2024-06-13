@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "564004326488",
+    "project_id": "shaam-e-udaas",
+    "storage_bucket": "shaam-e-udaas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564004326488:android:421dfa5d81933669cf0e2d",
+        "android_client_info": {
+          "package_name": "com.poetry.udaasesham"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxaKVprkidT3eXI2EW41qX41t9WShUjq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
